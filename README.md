@@ -20,7 +20,7 @@ The project combines **Python (ETL & cleaning)**, **MySQL (EDA)**, and **Power B
 - **Programming & Analysis:** Python (Pandas, NumPy), Jupyter Notebook 
 - **Database & Querying:** MySQL, MySQL Workbench  
 - **Data Visualization:** Power BI  
-- **Presentation & Storytelling:** Gamma AI  
+- **Presentation:** Gamma AI  
 - **Documentation & Version Control:** Markdown, GitHub
 
 ---
