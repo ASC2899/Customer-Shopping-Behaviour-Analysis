@@ -11,7 +11,7 @@ The goal is to uncover actionable insights related to:
 - Customer segmentation  
 - Revenue drivers  
 
-The project combines **Python (ETL & cleaning)**, **MySQL (EDA)**, and **Power BI (dashboarding)** to simulate a real-world end-to-end data analytics workflow (Cleaning → Analysis → Business Insights → Dashboard → Presentation).
+The project combines **Python (ETL & cleaning)**, **MySQL (EDA)**, and **Power BI (dashboarding)** to simulate a real-world end-to-end data analytics workflow (Cleaning → Analysis → Business Insights → Dashboard).
 
 ---
 
@@ -166,7 +166,7 @@ For more details and queries used checkout the [SQL Script](Data_EDA.sql).
 
 ## 📊 Power BI Dashboard
 
-An [**interactive Power BI dashboard**]() was created to visualize insights, including:
+An [**interactive Power BI dashboard**](Customer_Shopping_Behavior_Dashboard.pbix) was created to visualize insights, including:
 
 - Revenue breakdowns  
 - Customer segmentation  
@@ -175,6 +175,10 @@ An [**interactive Power BI dashboard**]() was created to visualize insights, inc
 - Shipping behavior  
 
 The dashboard allows dynamic filtering for deeper exploration and decision-making.
+
+<p align="center">
+  <img src="Screenshots/Dashboard.png" width="600">
+</p>
 
 ---
 
